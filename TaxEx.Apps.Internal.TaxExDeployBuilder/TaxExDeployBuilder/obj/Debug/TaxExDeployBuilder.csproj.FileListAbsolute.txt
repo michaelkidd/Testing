@@ -1,0 +1,6 @@
+C:\Projects\CrystalSolutions\Source\TaxEx.Applications\TaxEx.Apps.Internal.TaxExDeployBuilder\TaxExDeployBuilder\bin\Debug\TaxExDeployBuilder.exe.config
+C:\Projects\CrystalSolutions\Source\TaxEx.Applications\TaxEx.Apps.Internal.TaxExDeployBuilder\TaxExDeployBuilder\bin\Debug\TaxExDeployBuilder.exe
+C:\Projects\CrystalSolutions\Source\TaxEx.Applications\TaxEx.Apps.Internal.TaxExDeployBuilder\TaxExDeployBuilder\bin\Debug\TaxExDeployBuilder.pdb
+C:\Projects\CrystalSolutions\Source\TaxEx.Applications\TaxEx.Apps.Internal.TaxExDeployBuilder\TaxExDeployBuilder\obj\Debug\TaxExDeployBuilder.csprojResolveAssemblyReference.cache
+C:\Projects\CrystalSolutions\Source\TaxEx.Applications\TaxEx.Apps.Internal.TaxExDeployBuilder\TaxExDeployBuilder\obj\Debug\TaxExDeployBuilder.exe
+C:\Projects\CrystalSolutions\Source\TaxEx.Applications\TaxEx.Apps.Internal.TaxExDeployBuilder\TaxExDeployBuilder\obj\Debug\TaxExDeployBuilder.pdb
